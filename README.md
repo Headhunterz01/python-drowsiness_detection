@@ -71,7 +71,8 @@ pip install opencv-python Dlib numpy scipy
 
 ### 其他依赖
 
-　　该程序还需要dlib的预训练人脸形状预测器模型文件 `shape_predictor_68_face_landmarks.dat`。已经放在了目录中。
+　　该程序还需要dlib的预训练人脸形状预测器模型文件 `shape_predictor_68_face_landmarks.dat`。下载地址：
+    https://drive.google.com/file/d/1wHZxE5TJ5KO0Dktn5ZMbUkYoXQ_w5DGx/view?usp=sharing
 
 
 
