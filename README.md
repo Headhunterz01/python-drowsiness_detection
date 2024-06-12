@@ -108,3 +108,5 @@ ___
 - 程序默认使用电脑的内置摄像头,如果需要使用其他摄像头：
   请修改 `cap = cv2.VideoCapture(0)` 这一行中的参数。
 - 你可以根据需要调整程序中的各种阈值参数,如 `EAR_THRESHOLD`、`EAR_ALARM_THRESHOLD`、`EAR_CONSEC_FRAMES` 和 `YAWN_ALARM_THRESHOLD`等。
+
+# POWER BY 2024年粤澳信息科技创新学生比赛 and 顺德区LJZX
